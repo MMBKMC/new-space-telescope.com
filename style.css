@@ -1,0 +1,19 @@
+.container {
+    font-family:sans-serif;
+    background-color:rgb(17, 17, 149);
+    color:beige;
+}
+.images {
+    font-family:sans-serif;
+}
+.BUTTON {
+    font-family:sans-serif;
+    background-color: rgb(255, 109, 109);
+}
+:single-button {
+    background-color:red;
+}
+button {
+    background-color: rgb(255, 169, 169);
+    border-radius: 10px;
+}
